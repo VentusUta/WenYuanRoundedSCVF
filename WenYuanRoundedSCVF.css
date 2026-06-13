@@ -1,3 +1,10 @@
+* {
+  text-autospace: normal !important;
+  -webkit-font-smoothing: antialiased !important;
+  -moz-osx-font-smoothing: grayscale !important;
+  text-rendering: optimizeLegibility !important;
+}
+
 @font-face {
   font-family: "WenYuan Rounded SC VF";
   src: url(https://ventus-uta-wenyuan-rounded-sc-vf-font-delivery.ventusuta.workers.dev/134b555e01362c0c530874fc3ed3ead5.woff2) format(woff2) tech(variations);
